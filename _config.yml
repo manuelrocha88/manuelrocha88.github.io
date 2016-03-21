@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Manuel Rocha
+email: manuelrocha@manuelrocha.biz
+url: http://manuelrocha.biz
+description: "A empresa tem por objetivo fomentar o desenvolvimento de Sistemas de Informações úteis e capazes de gerar um valor acrescentado às empresas minhas clientes."
+skills: "Full Stack Developer"
+meta_author: Rocha Manuel
 
 # Google webmaster tools
 google_verify:
@@ -31,28 +31,31 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Manuel Rocha
+  location: Mozelos, Aveiro, Portugal
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/manuelrocha.biz
+  - title: linkedin
+    url: https://pt.linkedin.com/in/manuelrocha
+  #- title: twitter
+  #  url: http://twitter.com/jekyllrb
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket
+  #  url: http://bitbucket.org/jekyll
+  #- title: github
+  #  url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Rua da Azenha, 157
+  - line: 4535-169, Mozelos
+  - line: Aveiro, Portugal
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
